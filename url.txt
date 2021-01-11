@@ -1,0 +1,2 @@
+http://www.xxx.com
+https://www.xxx.com
